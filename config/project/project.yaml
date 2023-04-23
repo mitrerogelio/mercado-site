@@ -1,0 +1,22 @@
+dateModified: 1682224614
+email:
+  fromEmail: rogelinmitre@gmail.com
+  fromName: 'Mercado Missions'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    513f5e92-3baa-4074-bdc2-0189a37fc379: 'Mercado Missions' # Mercado Missions
+    64817fd3-8ff1-4fc9-8c4a-9e4bbd8bacca: 'Mercado Missions' # Mercado Missions
+    bc213e2a-9207-4f79-bdff-2b2dbfe2fcc4: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'Mercado Missions'
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
